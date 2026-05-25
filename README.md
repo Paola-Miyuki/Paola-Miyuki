@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou a Paola! 👋
 
-<!--
-**Paola-Miyuki/Paola-Miyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação** na **UTFPR-CM**. 
 
-Here are some ideas to get you started:
+Minha jornada acadêmica é movida pela curiosidade tecnológica. Embora eu tenha um interesse profundo e apaixonado pela área de **Cybersecurity e Redes**, meu foco principal no momento é consolidar uma base sólida em **Programação**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito que entender profundamente como o código funciona "por baixo do capô" é o primeiro passo para me tornar uma profissional capaz de construir sistemas seguros e eficientes no futuro.
+
+
+
+- **GitHub:** [@Paola-Miyuki](https://github.com/Paola-Miyuki)
+- **LinkedIn:** [www.linkedin.com/in/paola-miyuki-precinotto]
+- **Email:** [miyukiprecinoto@gmail.com]
+
+*“O primeiro passo para a maestria é a prática constante.”*
